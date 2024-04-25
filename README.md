@@ -6,6 +6,6 @@
 </div>
 
 <div>
-  <h2>Tecnologias Utilizadas</h2>
+  <h4>Tecnologias Utilizadas</h4>
   <p>📌HTML</br>📌CSS</p>
 </div>
