@@ -1,4 +1,4 @@
-<h1 align="center">Aprendendo a fazer Formulários</h1>
+<h3 align="center">Aprendendo a fazer Formulários</h3>
 
 <div>
   <p>Esse projeto faz parte do modulo 'Formularios' da Formação Front-end - HTML, CSS, JavaScript, React e +
